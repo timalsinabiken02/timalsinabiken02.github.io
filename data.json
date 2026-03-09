@@ -1,0 +1,110 @@
+{
+  "about": {
+    "name": "Biken Timalsina",
+    "title": "Cybersecurity Professional",
+    "summary": "Results driven Cybersecurity graduate with academic and industry experience across governance, risk and compliance, vulnerability assessment, and secure application development, applying ISO 27001 and NIST aligned controls to real-world organisational environments.",
+    "location": "Ashfield, NSW 2131, Australia",
+    "email": "timalsinabiken02@gmail.com",
+    "phone": "0416 529 756",
+    "github": "https://github.com/timalsinabiken02",
+    "linkedin": "https://linkedin.com/in/biken-timalsina-899753243",
+    "focus": "GRC · Pentesting · Secure Dev"
+  },
+  "skills": [
+    {
+      "category": "Security Tools",
+      "icon": "⚔",
+      "items": ["Metasploit", "Burp Suite", "Nessus", "Nmap", "Wireshark", "Kali Linux"]
+    },
+    {
+      "category": "Programming",
+      "icon": "💻",
+      "items": ["Python", "Java", "PHP", "JavaScript", "SQL", "OpenCV"]
+    },
+    {
+      "category": "Frameworks",
+      "icon": "📋",
+      "items": ["ISO 27001", "NIST CSF", "CIS Controls", "SOC 2", "GRC"]
+    },
+    {
+      "category": "Networking",
+      "icon": "🌐",
+      "items": ["TCP/IP", "Routing & Switching", "Linux", "Packet Analysis", "VPN/Firewall"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Ecommerce Website & Mobile App",
+      "description": "Developed a full-featured web-based ecommerce platform with a companion mobile application, handling product listings, cart, and user authentication.",
+      "icon": "🛒",
+      "tags": ["PHP", "Flutter", "MySQL"]
+    },
+    {
+      "title": "Smoking & Mask Detection System",
+      "description": "Built a real-time computer vision model to detect smoking activity and improper mask usage using deep learning and image processing techniques.",
+      "icon": "👁",
+      "tags": ["Python", "OpenCV", "ML"]
+    },
+    {
+      "title": "TCP Session Hijacking Lab",
+      "description": "Simulated TCP session hijacking in a controlled Kali Linux lab environment and documented comprehensive mitigation strategies and defensive controls.",
+      "icon": "🔐",
+      "tags": ["Kali Linux", "Networking", "Pentesting"]
+    },
+    {
+      "title": "Staff Hire & Fire Application",
+      "description": "Designed and implemented a Java-based application to manage end-to-end employee hiring and termination workflows with a structured data model.",
+      "icon": "👥",
+      "tags": ["Java", "OOP", "CRUD"]
+    },
+    {
+      "title": "Binary to Decimal Converter",
+      "description": "Built a robust Python command-line tool that converts binary numbers to decimal, with full input validation and error handling.",
+      "icon": "🔢",
+      "tags": ["Python", "CLI"]
+    }
+  ],
+  "experience": [
+    {
+      "date": "2025",
+      "title": "Cyber Security Review Contributor",
+      "org": "UniSQ Student Guild Project · Australia",
+      "bullets": [
+        "Performed organisational cyber security gap analysis and risk identification",
+        "Recommended controls aligned with ISO 27001 and NIST frameworks",
+        "Delivered structured risk summary to support governance improvements"
+      ]
+    },
+    {
+      "date": "Jul 2021 – Dec 2021",
+      "title": "Security Research Analyst Intern",
+      "org": "SecurityPal · Kathmandu, Nepal (Remote)",
+      "bullets": [
+        "Conducted compliance assessments aligned with SOC 2 and ISO 27001",
+        "Reviewed security documentation and summarised control effectiveness",
+        "Researched vulnerabilities and documented mitigation strategies",
+        "Collaborated with senior analysts to improve reporting accuracy"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "date": "Completed 2025",
+      "title": "Master of Cyber Security",
+      "org": "University of Southern Queensland · Australia",
+      "bullets": [
+        "Advanced studies in threat intelligence, digital forensics, and security architecture",
+        "Applied ISO 27001 and NIST-aligned controls in organisational contexts"
+      ]
+    },
+    {
+      "date": "Completed 2022",
+      "title": "BSc (Hons) Networking and IT Security",
+      "org": "London Metropolitan University / Islington College · Nepal",
+      "bullets": [
+        "Covered network security, cryptography, and secure systems design",
+        "Developed foundational skills in penetration testing and secure development"
+      ]
+    }
+  ]
+}
