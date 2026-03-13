@@ -24,7 +24,7 @@
     "github": "https://github.com/timalsinabiken02",
     "linkedin": "https://linkedin.com/in/biken-timalsina-899753243",
     "portfolio": "https://bikentimalsina.com",
-    "focus": "GRC Â· Compliance Â· Security Analysis"
+    "focus": "GRC ÃÂ· Compliance ÃÂ· Security Analysis"
   },
   "stats": [
     {
@@ -47,7 +47,7 @@
   "skills": [
     {
       "category": "Security Tools",
-      "icon": "â",
+      "icon": "Ã¢ÂÂ",
       "items": [
         "Metasploit",
         "Burp Suite",
@@ -59,7 +59,7 @@
     },
     {
       "category": "Programming",
-      "icon": "ð»",
+      "icon": "Ã°ÂÂÂ»",
       "items": [
         "Python",
         "Java",
@@ -70,7 +70,7 @@
     },
     {
       "category": "Frameworks & Standards",
-      "icon": "ð",
+      "icon": "Ã°ÂÂÂ",
       "items": [
         "ISO 27001",
         "NIST CSF",
@@ -81,7 +81,7 @@
     },
     {
       "category": "Networking",
-      "icon": "ð",
+      "icon": "Ã°ÂÂÂ",
       "items": [
         "TCP/IP",
         "Routing & Switching",
@@ -92,13 +92,13 @@
   ],
   "certifications": [
     {
-      "icon": "ð",
+      "icon": "Ã°ÂÂÂ",
       "name": "Master of Cyber Security",
       "issuer": "University of Southern Queensland",
       "year": "2025"
     },
     {
-      "icon": "ð",
+      "icon": "Ã°ÂÂÂ",
       "name": "BSc (Hons) Networking & IT Security",
       "issuer": "London Metropolitan University",
       "year": "2022"
@@ -108,7 +108,7 @@
     {
       "title": "Ecommerce Website & Mobile App",
       "description": "Full-featured web-based ecommerce platform with a companion mobile application, handling product listings, cart, and secure authentication.",
-      "icon": "ð",
+      "icon": "Ã°ÂÂÂ",
       "tags": [
         "PHP",
         "Flutter",
@@ -120,7 +120,7 @@
     {
       "title": "Smoking & Mask Detection System",
       "description": "Real-time computer vision model to detect smoking activity and improper mask usage using deep learning and image processing.",
-      "icon": "ð",
+      "icon": "Ã°ÂÂÂ",
       "tags": [
         "Python",
         "OpenCV",
@@ -132,7 +132,7 @@
     {
       "title": "TCP Session Hijacking Lab",
       "description": "Simulated TCP session hijacking in a controlled Kali Linux lab environment, with a comprehensive mitigation and defensive controls report.",
-      "icon": "ð",
+      "icon": "Ã°ÂÂÂ",
       "tags": [
         "Kali Linux",
         "Networking",
@@ -144,7 +144,7 @@
     {
       "title": "Staff Hire & Fire Application",
       "description": "Java-based application to manage end-to-end employee hiring and termination workflows with structured data handling.",
-      "icon": "ð¥",
+      "icon": "Ã°ÂÂÂ¥",
       "tags": [
         "Java"
       ],
@@ -154,20 +154,28 @@
     {
       "title": "Binary to Decimal Converter",
       "description": "Python CLI tool that converts binary numbers to decimal with full input validation and error handling.",
-      "icon": "ð¢",
+      "icon": "Ã°ÂÂÂ¢",
       "tags": [
         "Python",
         "CLI"
       ],
       "github_url": "",
       "live_url": ""
+    },
+    {
+      "icon": "💡",
+      "title": "New Project",
+      "description": "Description.",
+      "tags": [],
+      "github_url": "",
+      "live_url": ""
     }
   ],
   "experience": [
     {
-      "date": "Jan 2025 â Jul 2025",
+      "date": "Jan 2025 Ã¢ÂÂ Jul 2025",
       "title": "Cyber Security Review Contributor",
-      "org": "UniSQ Student Guild Project Â· Australia",
+      "org": "UniSQ Student Guild Project ÃÂ· Australia",
       "bullets": [
         "Delivered a structured cyber security risk summary that directly supported governance improvements for the University's student guild.",
         "Identified critical security gaps, strengthening the guild's compliance posture and audit readiness against ISO 27001 and NIST CSF benchmarks.",
@@ -176,9 +184,9 @@
       ]
     },
     {
-      "date": "Jul 2021 â Dec 2021",
+      "date": "Jul 2021 Ã¢ÂÂ Dec 2021",
       "title": "Security Research Analyst Intern",
-      "org": "SecurityPal Â· Kathmandu, Nepal (Remote)",
+      "org": "SecurityPal ÃÂ· Kathmandu, Nepal (Remote)",
       "bullets": [
         "Supported SOC 2 and ISO 27001 compliance assessments by reviewing client security documentation and evidence.",
         "Assisted in evaluating control effectiveness and documenting gaps for internal and client-facing reports.",
@@ -191,7 +199,7 @@
     {
       "date": "Completed 2025",
       "title": "Master of Cyber Security",
-      "org": "University of Southern Queensland Â· Australia",
+      "org": "University of Southern Queensland ÃÂ· Australia",
       "bullets": [
         "Advanced coursework in threat intelligence, digital forensics, security architecture, and incident response.",
         "Applied ISO 27001 and NIST-aligned controls in real-world organisational contexts."
@@ -200,7 +208,7 @@
     {
       "date": "Completed 2022",
       "title": "BSc (Hons) Networking and IT Security",
-      "org": "London Metropolitan University / Islington College Â· Nepal",
+      "org": "London Metropolitan University / Islington College ÃÂ· Nepal",
       "bullets": [
         "Covered network security, cryptography, and secure systems design.",
         "Developed foundational skills in penetration testing and secure development."
@@ -223,12 +231,12 @@
       "date": "2025-02-15",
       "category": "GRC",
       "excerpt": "Both SOC 2 and ISO 27001 address information security, but they serve different purposes. Here's how to understand the difference.",
-      "content": "# SOC 2 vs ISO 27001\n\nA question that comes up often in compliance work is: what's the difference between SOC 2 and ISO 27001?\n\n## SOC 2\n\nSOC 2 is an auditing framework developed by the AICPA, primarily used in the United States. It evaluates controls relevant to security, availability, processing integrity, confidentiality, and privacy.\n\n## ISO 27001\n\nISO 27001 is an international standard that defines requirements for an ISMS. It's globally recognised and results in formal certification.\n\n## Key Differences\n\n- **Scope**: SOC 2 is an audit report; ISO 27001 is a certification\n- **Geography**: SOC 2 is US-centric; ISO 27001 is global\n- **Focus**: SOC 2 focuses on Trust Service Criteria; ISO 27001 covers a broader ISMS\n\n## Which Should You Choose?\n\nMany organisations pursue both â ISO 27001 for international credibility and SOC 2 for US-based clients.",
+      "content": "# SOC 2 vs ISO 27001\n\nA question that comes up often in compliance work is: what's the difference between SOC 2 and ISO 27001?\n\n## SOC 2\n\nSOC 2 is an auditing framework developed by the AICPA, primarily used in the United States. It evaluates controls relevant to security, availability, processing integrity, confidentiality, and privacy.\n\n## ISO 27001\n\nISO 27001 is an international standard that defines requirements for an ISMS. It's globally recognised and results in formal certification.\n\n## Key Differences\n\n- **Scope**: SOC 2 is an audit report; ISO 27001 is a certification\n- **Geography**: SOC 2 is US-centric; ISO 27001 is global\n- **Focus**: SOC 2 focuses on Trust Service Criteria; ISO 27001 covers a broader ISMS\n\n## Which Should You Choose?\n\nMany organisations pursue both Ã¢ÂÂ ISO 27001 for international credibility and SOC 2 for US-based clients.",
       "published": true
     }
   ],
   "cv_filename": "Biken_Timalsina_CV.pdf",
   "footer": {
-    "text": "Designed & built by Biken Timalsina Â· Cybersecurity Professional"
+    "text": "Designed & built by Biken Timalsina ÃÂ· Cybersecurity Professional"
   }
 }
